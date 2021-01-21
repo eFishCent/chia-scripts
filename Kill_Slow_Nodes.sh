@@ -5,7 +5,7 @@
 # Run as local user
 # bash Kill_Slow_Nodes [Sub-block Threshold]
 
-WaitTime=10s
+WaitTime=1m
 ChiaDir="/Applications/Chia.app/Contents/Resources/app.asar.unpacked/daemon"
 
 SBThreshold="$1"
